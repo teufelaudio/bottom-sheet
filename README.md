@@ -1,3 +1,8 @@
+## This repository is archived
+
+This repository is no longer actively maintained. If you're interested in this component, checkout the [upstream repository](https://github.com/weitieda/bottom-sheet).
+
+
 ![SwiftUI BottomSheet](Asset/logo.png)
 
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/weitieda/BottomSheet)
